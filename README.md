@@ -1,6 +1,7 @@
 # Quadruped ROS 2 Simulation Suite (ROS 2 Jazzy + Gazebo Harmonic)
 
 This project began as a personal challenge after I encountered compatibility issues integrating quadruped robots into the ROS 2 Jazzy ecosystem. I implemented and debugged the ros2_control pipeline manually, particularly focusing on plugin behavior in Gazebo Harmonic. All assets were either built by hand or sourced from open repositories, with special attention to TF integrity and sensor realism. This **independent robotics project (non-university affiliated)** demonstrates a full integration attempt of a quadruped robot into a modern ROS 2 Jazzy + Gazebo Harmonic simulation pipeline, including URDF integration, TF frame validation, ros2-control integration trials,and sensor data analysis (LiDAR and IMU, including EKF-based insights).
+
 ---
 
 **Key Features:**
@@ -20,9 +21,9 @@ While the robot structure is inspired by commercial quadruped platforms (e.g., U
 ---
 
 **Prepared by:**
-**Alireza Sharifan**
-Independent Robotics Integration Engineer (MSc. Mechanical Eng.)
-Visiting Lecturer at Budapest University of Technology and Economics (BME)
+**Alireza Sharifan**  
+Independent Robotics Integration Engineer (MSc. Mechanical Eng.)  
+Visiting Lecturer at Budapest University of Technology and Economics (BME)  
 Department of Mechatronics, Optics, and Mechanical Engineering Informatics (MOGI)
 
 Email: alirezasharifan82@gmail.com (Personal), alireza.sharifan@mogi.bme.hu (Affiliation)
