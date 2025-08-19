@@ -15,7 +15,7 @@ This project began as a personal challenge after I encountered compatibility iss
 - All simulation assets are open-source or custom-built
 
 
-**Note:** This repository highlights selected technical contributions.
+**Note:** This repository highlights selected technical contributions.  
 While the robot structure is inspired by commercial quadruped platforms (e.g., Unitree Go2), and some sensor configurations were based on typical specifications of commercial devices (e.g., Livox L1 LiDAR, Bosch BMI088 IMU), all components in this project are independently developed or sourced from open repositories. No proprietary assets were used.
 
 ---
