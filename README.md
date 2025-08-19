@@ -36,9 +36,12 @@ This material is provided for viewing on GitHub only. No copying, redistribution
 
 **Full PDF Report:** [Selected Technical Contributions](docs/Selected-Technical-Contributions.pdf) 
 
-_Where relevant, visual references corresponding to the technical sections in the PDF report are provided under docs/screenshots, with filenames intentionally aligned to subsection numbers for easy traceability._ 
+_Where relevant, visual references corresponding to the technical sections in the PDF report are provided under docs/screenshots._ 
 
-**Screenshot Gallery:** [docs/screenshots/](docs/screenshots/)
+**Screenshot Gallery:** [docs/screenshots/](docs/screenshots/)  
+
+Screenshot filenames follow the same numbering as the report (e.g., 1.1, 2.3, …).  
+For easy traceability, you may keep the PDF open in one tab and the screenshots folder in another, so that each reference in the text can be directly viewed next to its relevant screenshot file.
 
 
 
