@@ -32,6 +32,13 @@ Email: alirezasharifan82@gmail.com (Personal), alireza.sharifan@mogi.bme.hu (Aff
 All content in this repository is © 2025 Alireza Sharifan — **All rights reserved**.
 This material is provided for viewing on GitHub only. No copying, redistribution, or modification is permitted.
 
+## Citation
+
+For scholarly citation, please refer to the official DOIs below:
+
+- Primary DOI (Zenodo): [10.5281/zenodo.16916383](https://doi.org/10.5281/zenodo.16916383) 
+- Mirror DOI (OSF): [10.17605/OSF.IO/NJU9B](https://doi.org/10.17605/OSF.IO/NJU9B)
+
 ---
 
 **Full PDF Report:** [Selected Technical Contributions](docs/Selected-Technical-Contributions.pdf) 
