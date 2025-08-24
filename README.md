@@ -29,7 +29,7 @@ Department of Mechatronics, Optics, and Mechanical Engineering Informatics (MOGI
 Email: alirezasharifan82@gmail.com (Personal), alireza.sharifan@mogi.bme.hu (Affiliation)
 
 ## Licensing
-All content in this repository is © 2025 Alireza Sharifan — **All rights reserved**.
+All content in this repository is © 2025 Alireza Sharifan - **All rights reserved**.
 This material is provided for viewing on GitHub only. No copying, redistribution, or modification is permitted.
 
 ## Citation
