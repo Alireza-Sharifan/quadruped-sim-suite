@@ -36,9 +36,10 @@ This material is provided for viewing on GitHub only. No copying, redistribution
 
 For scholarly citation, please refer to the official DOI below:
 
-- Primary DOI (Zenodo): [10.5281/zenodo.16916383](https://doi.org/10.5281/zenodo.16916383) 
+Primary DOI (Zenodo):  
+[10.5281/zenodo.16916383](https://doi.org/10.5281/zenodo.16916383) 
 
-Secondary record available on OSF: 
+Secondary record available on OSF:  
 [10.17605/OSF.IO/NJU9B](https://doi.org/10.17605/OSF.IO/NJU9B)
 
 ---
