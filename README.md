@@ -34,7 +34,7 @@ This material is provided for viewing on GitHub only. No copying, redistribution
 
 ## Citation
 
-For scholarly citation, please refer to the official DOIs below:
+For scholarly citation, please refer to the official DOI below:
 
 - Primary DOI (Zenodo): [10.5281/zenodo.16916383](https://doi.org/10.5281/zenodo.16916383) 
 
