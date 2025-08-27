@@ -44,7 +44,7 @@ Secondary record available on OSF:
 
 ---
 
-**Full PDF Report:** [Selected Technical Contributions](docs/Selected-Technical-Contributions.pdf) 
+**Full PDF Report:** [Selected-Technical-Contributions-[GitHub-Preview-Mode]](docs/Selected-Technical-Contributions-[GitHub-Preview-Mode].pdf) 
 
 _Where relevant, visual references corresponding to the technical sections in the PDF report are provided under docs/screenshots._ 
 
