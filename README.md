@@ -44,7 +44,7 @@ Secondary record available on OSF:
 
 ---
 
-**Full PDF Report:** [Selected-Technical-Contributions (Preview)](docs/Selected-Technical-Contributions-[GitHub-Preview-Mode].pdf) 
+**Full PDF Report:** [Selected-Technical-Contributions (Preview)](docs/Selected-Technical-Contributions-Preview.pdf) 
 
 If the PDF preview does not open in your browser, you can [download the full PDF here](https://github.com/Alireza-Sharifan/quadruped-sim-suite/raw/main/docs/Selected-Technical-Contributions.pdf).
 
