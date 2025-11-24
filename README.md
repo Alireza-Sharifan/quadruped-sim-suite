@@ -23,7 +23,7 @@ While the robot structure is inspired by commercial quadruped platforms (e.g., U
 **Prepared by:**
 **Alireza Sharifan**  
 Independent Robotics Integration Engineer (MSc. Mechanical Eng.)  
-Visiting Lecturer at Budapest University of Technology and Economics (BME)  
+Lecturer at Budapest University of Technology and Economics (BME)  
 Department of Mechatronics, Optics, and Mechanical Engineering Informatics (MOGI)
 
 Email: alirezasharifan82@gmail.com (Personal), alireza.sharifan@mogi.bme.hu (Affiliation)
