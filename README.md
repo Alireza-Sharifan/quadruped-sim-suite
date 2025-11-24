@@ -16,7 +16,7 @@ This project began as a personal challenge after I encountered compatibility iss
 
 
 **Note:** This repository highlights selected technical contributions.  
-While the robot structure is inspired by commercial quadruped platforms (e.g., Unitree Go2), and some sensor configurations were based on typical specifications of commercial devices (e.g., Livox L1 LiDAR, Bosch BMI088 IMU), all components in this project are independently developed or sourced from open repositories. No proprietary assets were used.
+While the robot structure is inspired by commercial quadruped platforms (e.g., Unitree Go2), and some sensor configurations were based on typical specifications of commercial devices (e.g., Velodyne VLP-16 “Puck” LiDAR, VectorNav VN-100 IMU), all components in this project are independently developed or sourced from open repositories. No proprietary assets were used.
 
 ---
 
@@ -44,9 +44,7 @@ Secondary record available on OSF:
 
 ---
 
-**Full PDF Report:** [Selected-Technical-Contributions (Preview)](docs/Selected-Technical-Contributions-Preview.pdf) 
-
-If the PDF preview does not open in your browser, you can [download the full PDF here](https://github.com/Alireza-Sharifan/quadruped-sim-suite/raw/main/docs/Selected-Technical-Contributions.pdf).
+**Full PDF Report:** [Selected-Technical-Contributions](docs/Selected-Technical-Contributions.pdf) 
 
 _Where relevant, visual references corresponding to the technical sections in the PDF report are provided under docs/screenshots._ 
 
